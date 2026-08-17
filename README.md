@@ -1,4 +1,4 @@
-# 📊 Advanced Threat Incident Analytics Framework
+# 📊 Cyber Threat Analytics Platform with Incident Visualization System 
 
 ## 🚀 Project Overview
 

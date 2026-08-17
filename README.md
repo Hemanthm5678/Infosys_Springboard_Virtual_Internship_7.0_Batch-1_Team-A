@@ -13,9 +13,9 @@ The project demonstrates how **data analytics and business intelligence** can be
 Here's an overview of the files in this repository:
 
 - **Team_Members_PPT/** – Individual PPT slides for each team member
-- **sharing30-07_final.pbix** – Main Power BI project file
-- **Milestone-4_Advanced_Threat_Incident_Analytics_Framework.pptx** – Group presentation slides
-- **Milestone_3_Report_with_Milestone_4.pdf** – Internship completion / milestone report
+- **Cyber Threat Analytics Platform with Incident Visualization System Group 1.pbit** – Main Power BI template file
+- **Team A-Group PPT.pptx** – Group presentation slides
+- **Internship_Project_Report.pdf** – Internship completion / milestone report
 - **LICENSE** – License file
 - **README.md** – This overview file
 

@@ -15,7 +15,7 @@ Here's an overview of the files in this repository:
 - **Team_Members_PPT/** – Individual PPT slides for each team member
 - **Cyber Threat Analytics Platform with Incident Visualization System Group 1.pbit** – Main Power BI template file
 - **Team A-Group PPT.pptx** – Group presentation slides
-- **Internship_Project_Report.pdf** – Internship completion / milestone report
+- **Internship_Project_Report.docx** – Internship completion / milestone report
 - **LICENSE** – License file
 - **README.md** – This overview file
 
@@ -100,6 +100,7 @@ By leveraging Power BI, Power Query, and DAX, the project transformed 1.5 millio
 - Hemanth M
 - Darsh Dwivedi
 - Harini T
+- Srinidhi
 - Akshay Jaiswal
 
 **Year:** 2026

@@ -4,7 +4,7 @@
 
 This project was completed as part of our internship with **Infosys Springboard Virtual Internship 7.0**.
 
-**Advanced Threat Incident Analytics Framework** is an interactive cybersecurity analytics dashboard designed to replace slow, error-prone manual review of network and threat-detection logs with fast, visual, data-driven triage. The project uses **Microsoft Power BI, Power Query, and DAX** to transform 6 million raw network-traffic and security-event log rows into a clean, risk-enriched dataset and a 7-page interactive dashboard delivering meaningful insights and an easy-to-understand user experience for both security analysts and non-technical stakeholders.
+**Cyber Threat Analytics Platform ** is an interactive cybersecurity analytics dashboard designed to replace slow, error-prone manual review of network and threat-detection logs with fast, visual, data-driven triage. The project uses **Microsoft Power BI, Power Query, and DAX** to transform 6 million raw network-traffic and security-event log rows into a clean, risk-enriched dataset and a 7-page interactive dashboard delivering meaningful insights and an easy-to-understand user experience for both security analysts and non-technical stakeholders.
 
 The project demonstrates how **data analytics and business intelligence** can be used to solve real-world Security Operations Centre (SOC) problems by providing data-driven insights, interactive visualizations, and meaningful analysis of traffic patterns, protocol usage, and network origins — narrowing the gap between threat detection and prevention.
 
@@ -91,7 +91,7 @@ This internship-based project helped bridge academic learning with real-world in
 
 ## 🏁 Conclusion
 
-The **Advanced Threat Incident Analytics Framework** project demonstrates how business intelligence and data analytics can be effectively used to address the cybersecurity "data overload" problem faced by modern Security Operations Centres.
+The **Cyber Threat Analytics Platform with Incident Visualisation System** project demonstrates how business intelligence and data analytics can be effectively used to address the cybersecurity "data overload" problem faced by modern Security Operations Centres.
 
 By leveraging Power BI, Power Query, and DAX, the project transformed 1.5 million raw network logs into a fully functional, 7-page interactive dashboard — revealing a 49.89% critical breach rate, protocol-specific exfiltration risks, and disproportionate threat origins — and demonstrates the practical application of industry-oriented analytics concepts learned during the internship.
 

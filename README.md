@@ -98,7 +98,7 @@ By leveraging Power BI, Power Query, and DAX, the project transformed 1.5 millio
 ## 💬 Contributors
 
 - Hemanth M
-- Darsh Dwivedi
+- Darsh Dwived
 - Harini T
 - Srinidhi
 - Akshay Jaiswal

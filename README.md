@@ -1,5 +1,7 @@
 # 📊 Cyber Threat Analytics Platform with Incident Visualization System 
 
+> **Dataset:** The dataset is too large to upload directly, so the link is provided here: https://www.kaggle.com/datasets/aryan208/cybersecurity-threat-detection-logs
+
 ## 🚀 Project Overview
 
 This project was completed as part of our internship with **Infosys Springboard Virtual Internship 7.0**.
@@ -41,7 +43,7 @@ A composite risk score and detection-vs-prevention trend gives leadership a sing
 - **Microsoft Power BI Desktop**: Core platform for interactive dashboard development
 - **Power Query (M Language)**: 12-step ETL pipeline for data cleaning, formatting, and enrichment
 - **DAX (Data Analysis Expressions)**: Calculated columns and measures (Severity Score, Urgency Flag, Malicious Allowed Rate %)
-- **Kaggle Dataset — "Cybersecurity Threat Detection Logs"**: 6,000,000 raw rows, refined to 1,495,242 network log events (Jan–Mar 2024)
+- **Kaggle Dataset — "Cybersecurity Threat Detection Logs"**: 6,000,000 raw rows, refined to 1,495,242 network log events (Jan–Mar 2024). The dataset is too large to upload directly, so the link is provided here: https://www.kaggle.com/datasets/aryan208/cybersecurity-threat-detection-logs
 - **GitHub / GitLab**: Version control and repository management
 - **Microsoft Teams**: Team collaboration and communication
 
@@ -100,7 +102,6 @@ By leveraging Power BI, Power Query, and DAX, the project transformed 1.5 millio
 - Hemanth M
 - Darsh Dwivedi
 - Harini T
-- Srinidhi
 - Akshay Jaiswal
 
 **Year:** 2026
